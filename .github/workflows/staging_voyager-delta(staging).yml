@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'voyager-delta'
           slot-name: 'staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7516FAD783D940BBA335CA98147B424B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C86163F58F9F4CE39606AD906118745A }}
